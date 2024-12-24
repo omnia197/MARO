@@ -27,14 +27,14 @@ services.
 
 ### User Management
 - We welcome new users who can sign up easily.
-- - **Figure:** ![User Management Image](https://i.ibb.co/VTQsNdX/photo-6006046734918208228-y-1.jpg)
-- Data is saved locally so user can log in later easily.
-- **Figure:** ![User Management Image](https://i.ibb.co/gvsFDG4/photo-6006046734918208226-y.jpg)
+ ![User Management Image](https://i.ibb.co/VTQsNdX/photo-6006046734918208228-y-1.jpg)
+- Data is saved locally on a database file so user can log in later easily.
+ ![User Management Image](https://i.ibb.co/gvsFDG4/photo-6006046734918208226-y.jpg)
 
 ---
 
 ### Game Home
-The main home includes all developers work on games. We have 8 games that You can play
+The main home includes all developers work on games. We have 8 games that You can play. Every Game has its own code structure using oop and solid principles. In addition, It is connected with the system which make it easy and scalaple to add more games on the future. 
 - **Available Games:**
   - Snake.
   - Flappy Bird.
@@ -45,13 +45,13 @@ The main home includes all developers work on games. We have 8 games that You ca
   - Mine Sweeper
   -   **Figure:** ![Game Home Image](https://i.ibb.co/nmVp58S/photo-6006046734918208229-y.jpg)
 
-- **Example Actions:**
-  - Play Flappy Bird
-  -  **Figure:** ![Game Home Image](https://i.ibb.co/6Pcxq8t/photo-6006046734918208232-y.jpg)
-  - Try Tic Tac Toe.
+- **Example Games:**
+  - You can play Flappy Bird
+ ![Game Home Image](https://i.ibb.co/6Pcxq8t/photo-6006046734918208232-y.jpg)
+  - or maybe Try Tic Tac Toe.
   -  **Figure:** ![Game Home Image](https://i.ibb.co/483mwPS/photo-6006046734918208230-y.jpg)
-- **If you lose:** It is not a problem we displays \"Game Over\" page with your score and try again!
-  - **Figure:** ![Game Home Image](https://i.ibb.co/5BHgpwM/photo-6006046734918208234-y.jpg)
+ **If you lose:** It is not a problem we displays \"Game Over\" page with your score and try again and don't leave MARO!
+ ![Game Home Image](https://i.ibb.co/5BHgpwM/photo-6006046734918208234-y.jpg)
 
 
 ---
@@ -76,5 +76,5 @@ We’re grateful for the efforts of our dedicated team. Below is the table of co
 
 ---
 
-- Thank you for checking out MARO Games!
-- If You have any feedback contact us. Always welcome.
+ Thank you for checking out MARO Games!
+ If You have any feedback contact us. Always welcome.
