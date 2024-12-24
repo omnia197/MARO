@@ -27,13 +27,14 @@ services.
 
 ### User Management
 - We welcome new users who can sign up easily.
-- - **Figure:** [User Management Image](https://example.com/user-management-image)
+- - **Figure:** [User Management Image](https://i.ibb.co/VTQsNdX/photo-6006046734918208228-y-1.jpg)
 - Data is saved locally so user can log in later easily.
-- **Figure:** [User Management Image](https://example.com/user-management-image)
+- **Figure:** [User Management Image](https://i.ibb.co/gvsFDG4/photo-6006046734918208226-y.jpg)
 
 ---
 
 ### Game Home
+The main home includes all developers work on games. We have 8 games that You can play
 - **Available Games:**
   - Snake.
   - Flappy Bird.
@@ -42,13 +43,15 @@ services.
   - Space Envaders
   - ping pong
   - Mine Sweeper
+  -   **Figure:** [Game Home Image](https://i.ibb.co/nmVp58S/photo-6006046734918208229-y.jpg)
+
 - **Example Actions:**
-  - Play Flappy Bird.
-  -  **Figure:** [Game Home Image](https://example.com/game-home-image)
+  - Play Flappy Bird
+  -  **Figure:** [Game Home Image](https://i.ibb.co/6Pcxq8t/photo-6006046734918208232-y.jpg)
   - Try Tic Tac Toe.
-  -  **Figure:** [Game Home Image](https://example.com/game-home-image)
+  -  **Figure:** [Game Home Image](https://i.ibb.co/483mwPS/photo-6006046734918208230-y.jpg)
 - **If you lose:** It is not a problem we displays \"Game Over\" page with your score and try again!
-  - **Figure:** [Game Home Image](https://example.com/game-home-image)
+  - **Figure:** [Game Home Image](https://i.ibb.co/5BHgpwM/photo-6006046734918208234-y.jpg)
 
 
 ---
@@ -57,7 +60,7 @@ services.
 - **Features:**
   - View name and email.
   - Future plan includes the best score of every game.
-- **Figure:** [Account Page Image](https://example.com/account-page-image)
+- **Figure:** [Account Page Image]([https://example.com/account-page-image](https://i.ibb.co/TM6JDfc/photo-6005682285468304162-x.jpg))
 
 ---
 
