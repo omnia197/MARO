@@ -12,18 +12,18 @@
 
 ## Introduction
 
-  MARO is an independent platform designed to offer classic games through
+MARO is an independent platform designed to offer classic games through
 a user-friendly interface. Unlike other gaming platforms, MARO focuses on
 simplicity, nostalgia, and functionality. It incorporates all necessary
 features, such as user management, game hosting, and data tracking, in a
 self-contained environment. Compared to similar platforms, MARO’s key differentiators are its nostalgic
 appeal, simple user experience, and focus on core gaming functionality. The system leverages a local file database to handle user signups and
 logins, ensuring smooth account management without relying on external
-services.
+services with many user-friendly games that you can play anytime. 
 
 ---
 
-## Work Flow
+## Start Your Journey on MARO
 
 ### User Management
 - We welcome new users who can sign up easily.
@@ -37,7 +37,7 @@ services.
 ---
 
 ### Game Home
-The main home includes all developers work on games. We have 8 games that You can play. Every Game has its own code structure using oop and solid principles. In addition, It is connected with the system which make it easy and scalaple to add more games on the future. 
+The main home includes all developers work on games. We have 8 games that You can play. Every Game has its own code structure using oop and solid principles. In addition, It is connected with the system which makes it easy and scalable to add more games on the future. 
 - **Available Games:**
   - Snake.
   - Flappy Bird.
@@ -49,7 +49,7 @@ The main home includes all developers work on games. We have 8 games that You ca
     <br>
  ![Game Home Image](https://i.ibb.co/nmVp58S/photo-6006046734918208229-y.jpg)
 
-- **Example Games:**
+- **Try Games:**
    You can play Flappy Bird
   <br>
  ![Game Home Image](https://i.ibb.co/6Pcxq8t/photo-6006046734918208232-y.jpg)
@@ -58,9 +58,11 @@ The main home includes all developers work on games. We have 8 games that You ca
    or maybe Try Tic Tac Toe.
   <br>
 ![Game Home Image](https://i.ibb.co/483mwPS/photo-6006046734918208230-y.jpg)
+<br>
+or many other games. Enjoy Your time!
 
 ---
- **If you lose:** It is not a problem we displays \"Game Over\" page with your score and try again and don't leave MARO!
+ **If you lose:** It is not a problem we displays \"Game Over\" page with your score. Try again and don't leave MARO!
  ![Game Home Image](https://i.ibb.co/5BHgpwM/photo-6006046734918208234-y.jpg)
 
 
