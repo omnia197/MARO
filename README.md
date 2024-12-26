@@ -81,7 +81,7 @@ or many other games. Enjoy Your time!
 ## Other Contributors
 We’re grateful for the efforts of our dedicated team. Below is the table of contributors:
 
-| [Omnia Ayman](https://github.com/omnia-ayman) | [Rahma Mostafa](https://github.com/rahma-mostafa) | [Alaa Ayman](https://github.com/alaa-ayman) | [Mariam Ehab](https://github.com/mariam-ehab) |
+| [Omnia Ayman](https://github.com/omnia197) | [Rahma Mostafa](https://github.com/Rahma-Eldardery) | [Alaa Ayman](https://github.com/alaa-ayman552) | [Mariam Ehab](https://github.com/Mariam-Ehab-Shehata) |
 |-----------------------------------------------|---------------------------------------------------|----------------------------------------------|-----------------------------------------------|
 | Game Structure                                | User Management                                  | Flappy Bird                                  | Memory Card                                   |
 | Main Home GUI                                 | User GUI                                         | Mine Sweeper                                 | Space Invaders                                |
