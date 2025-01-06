@@ -55,7 +55,9 @@ Account Page is designed to give users quick and easy access to their personal i
 
 ---
 ## Gallery
+
 <br> ![User Management Image](https://i.ibb.co/VTQsNdX/photo-6006046734918208228-y.jpg) 
+<br> ![Game Home Image](https://i.ibb.co/1R4vHwC/photo-6006046734918208229-y-1.jpg)
 <br> ![Game Home Image 1](https://i.ibb.co/6Pcxq8t/photo-6006046734918208232-y.jpg)
 <br> ![Game Home Image 3](https://i.ibb.co/5BHgpwM/photo-6006046734918208234-y.jpg)
  
