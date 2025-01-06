@@ -4,10 +4,12 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Work Flow](#work-flow)
+- [Installation](#Installation)
+- [Features](#Features)
   - [User Management](#user-management)
   - [Game Home](#game-home)
   - [Account Page](#account-page)
+- [Gallery](#Gallery)
 - [Other Contributors](#other-contributors)
 
 ## Introduction
@@ -22,22 +24,21 @@ logins, ensuring smooth account management without relying on external
 services with many user-friendly games that you can play anytime. 
 
 ---
+## Installation  
+1. Ensure Java 11+ is installed.  
+2. Clone the repository:  
+   ```bash
+   git clone https://github.com/omnia197/MARO.git
+---
 
 ## Start Your Journey on MARO
 
 ### User Management
-- We welcome new users who can sign up easily.
-  <br>
- ![User Management Image](https://i.ibb.co/VTQsNdX/photo-6006046734918208228-y-1.jpg)
-<br>
-
-- Data is saved locally on a database file so user can log in later easily.
- ![User Management Image](https://i.ibb.co/gvsFDG4/photo-6006046734918208226-y.jpg)
-
+- MARO includes a user management system, allowing players to easily sign up and log in. During the sign-up process, users provide basic information such as email and password, which is stored in a local file. This file acts as a simple database, enabling the application to read and write user data efficiently. When logging in, the system validates the entered data against the saved data, ensuring a secure and seamless experience.
 ---
 
 ### Game Home
-The main home includes all developers work on games. We have 8 games that You can play. Every Game has its own code structure using oop and solid principles. In addition, It is connected with the system which makes it easy and scalable to add more games on the future. 
+MARO's Game Home serves as the central page where all the developers' games come together. It features a collection of eight exciting games, each uniquely designed and developed using Object-Oriented Programming (OOP) principles and adhering to SOLID design patterns. This ensures clean, maintainable, and scalable code, making it easy to add new games in the future. The Game Home integrates with the system easily.
 - **Available Games:**
   - Snake.
   - Flappy Bird.
@@ -46,37 +47,26 @@ The main home includes all developers work on games. We have 8 games that You ca
   - Space Envaders
   - ping pong
   - Mine Sweeper
-    <br>
- ![Game Home Image](https://i.ibb.co/nmVp58S/photo-6006046734918208229-y.jpg)
-
-- **Try Games:**
-   You can play Flappy Bird
-  <br>
- ![Game Home Image](https://i.ibb.co/6Pcxq8t/photo-6006046734918208232-y.jpg)
-
-
-   or maybe Try Tic Tac Toe.
-  <br>
-![Game Home Image](https://i.ibb.co/483mwPS/photo-6006046734918208230-y.jpg)
-<br>
-or many other games. Enjoy Your time!
-
----
- **If you lose:** It is not a problem we displays \"Game Over\" page with your score. Try again and don't leave MARO!
- ![Game Home Image](https://i.ibb.co/5BHgpwM/photo-6006046734918208234-y.jpg)
-
 
 ---
 
 ### Account Page
- **Features:**
-  - View name and email.
-  - Future plan includes the best score of every game.
-<br>
-  
-![Account Page Image](https://i.ibb.co/TM6JDfc/photo-6005682285468304162-x.jpg)
+Account Page is designed to give users quick and easy access to their personal information. Currently, it allows users to view their name and email, providing a simple way to manage account details. Future updates will enhance the page by displaying each user’s best scores for all available games, creating a more personalized and engaging experience. This feature will not only motivate players to improve their performance but also add a competitive element by allowing them to track their progress across games.
 
 ---
+## Gallery
+  <br>
+ ![User Management Image](https://i.ibb.co/VTQsNdX/photo-6006046734918208228-y-1.jpg)
+<br>
+![Account Page Image](https://i.ibb.co/TM6JDfc/photo-6005682285468304162-x.jpg)
+<br>
+ ![Game Home Image](https://i.ibb.co/6Pcxq8t/photo-6006046734918208232-y.jpg)
+<br>
+  ![Game Home Image](https://i.ibb.co/483mwPS/photo-6006046734918208230-y.jpg)
+ <br>
+  ![Game Home Image](https://i.ibb.co/5BHgpwM/photo-6006046734918208234-y.jpg)
+ 
+ 
 
 ## Other Contributors
 We’re grateful for the efforts of our dedicated team. Below is the table of contributors:
